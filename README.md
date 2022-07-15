@@ -1,0 +1,2 @@
+# .github
+Speakeasy org settings
