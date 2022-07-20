@@ -1,1 +1,1 @@
-![speakeasy+github](https://user-images.githubusercontent.com/6267663/180101471-7d7c53fa-fb43-48f1-b066-be2ad49f7b1c.png)
+![speakeasy+github](https://user-images.githubusercontent.com/6267663/180101598-0acc1650-cd22-4388-b1b7-b69f60edc259.png)
