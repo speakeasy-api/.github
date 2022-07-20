@@ -1,1 +1,1 @@
-![speakeasy-logo](https://user-images.githubusercontent.com/6267663/179846346-36bedf59-cb83-431b-a34d-e533eb250352.png)
+![speakeasy-git-logo](https://user-images.githubusercontent.com/6267663/180101386-abddba0d-acf4-454d-a817-33579b4fdc60.png)
