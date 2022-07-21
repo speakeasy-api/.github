@@ -29,7 +29,7 @@ Speakeasy aims to change this. **We are the API Platform team for every company.
 
 We want to make it super easy for all Speakeasy users to talk to us and connect with one another. We believe that sharing ideas and collective problem solving will help us build the possible future. Join the conversation:
 
-* **Twitter**. Follow [@Snowplow](https://twitter.com/snowplow) for official news and [@SnowplowLabs](https://twitter.com/snowplowlabs) for engineering-heavy conversations and release announcements.
+* **Twitter**. Follow [@speakeasydev](https://twitter.com/speakeasydev) for API & dev tools conversations and release announcements.
 * **GitHub**. If you spot a bug, please raise an issue in the GitHub repository of the component in question. For brainstorming a potential new feature or making a request, [raise an issue in our product resources repo](https://github.com/speakeasy-api/product-resources) it's the best place to start.
 * **Email**. A real person wrote this. If you want to talk to me, email is the easiest way. Get in touch: nolan@speakeasyapi.dev.
 
