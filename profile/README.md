@@ -14,20 +14,20 @@ APIs are really hard to build and maintain: there’s a long list of tasks that 
 
 ## Why Speakeasy?
 
-Speakeasy aims to change this. **We are the API Platform team for every company.** With just a few lines of code, developers get a dashboard that provides transparency into API change &, customer usage, generates tests from real traffic, and integrates into the rest of your API stack. and all the quality fittings needed to operationalize APIs in minutes. Our goals it help companies launch and grow their business with easy-to-use API tooling that works at any scale.
+Speakeasy aims to change this. **We are the API Platform team for every company.** With just a few lines of code, developers get a dashboard that provides transparency into API changes, customer usage, generates tests from real traffic, and integrates into the rest of your API stack along with all the quality fittings needed to operationalize APIs in minutes. Our goal is to help companies launch and grow their business with easy-to-use API tooling that works at any scale.
 
 ## ➡ What you'll find on our Github? ⬅
 
 | Speakeasy Open Source | Speakeasy Product Resources |
 | ------------- | ------------- |
-| For people who want to start building REST endpoints that incorporate development best practices. We have a set of API templates which equips you with everything you need to begin creating high-quality services in the language of your choice. | If you have thoughts about the product, or have ideas for the direction of the Speakeasy platform, then please get in touch! [Simply raise an issue in our product resources repo](https://github.com/speakeasy-api/product-resources) and we'll get back to you ASAP.|
+| For people who want to start building REST endpoints that incorporate development best practices. We have a set of API templates to equip you with everything you need to begin creating high-quality services in the language of your choice. | If you have thoughts about the product or ideas for the direction of the Speakeasy platform, then please get in touch! [Simply raise an issue in our product resources repo](https://github.com/speakeasy-api/product-resources) and we'll get back to you ASAP.|
 
 
 ---
 
 ## Community 
 
-We want to make it super easy for any Speakeasy users to talk to us and connect with one another. We believe that sharing ideas, and collective problem solving will help us build the possible future. Join the conversation:
+We want to make it super easy for all Speakeasy users to talk to us and connect with one another. We believe that sharing ideas and collective problem solving will help us build the possible future. Join the conversation:
 
 * **Twitter**. Follow [@Snowplow](https://twitter.com/snowplow) for official news and [@SnowplowLabs](https://twitter.com/snowplowlabs) for engineering-heavy conversations and release announcements.
 * **GitHub**. If you spot a bug, please raise an issue in the GitHub repository of the component in question. For brainstorming a potential new feature or making a request, [raise an issue in our product resources repo](https://github.com/speakeasy-api/product-resources) it's the best place to start.
