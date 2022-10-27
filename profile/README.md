@@ -2,7 +2,8 @@
   <img src="https://user-images.githubusercontent.com/6267663/180101598-0acc1650-cd22-4388-b1b7-b69f60edc259.png" />
 </p>
 
-Hiya! Welcome to Speakeasy's Github. This is where we are building **world-class Developer Experience for your API**. 
+## Welcome to Speakeasy's Github! 
+#### This is where we are building **world-class Developer Experience for your API**. 
 
 Speakeasy's Client SDKs and Developer Experience POrtal help you acheve faster & easier integration for your API. Just add our SDK (3 lines of code) to your API handlers and get immediate access to a suite of DevEx that speed up customer integration and enable self-service support for your API. We're the API Platform team for every company!
 
