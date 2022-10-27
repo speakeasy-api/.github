@@ -6,7 +6,7 @@ Hiya! Welcome to Speakeasy's Github. This is where we are building **world-class
 
 Speakeasy's Client SDKs and Developer Experience POrtal help you acheve faster & easier integration for your API. Just add our SDK (3 lines of code) to your API handlers and get immediate access to a suite of DevEx that speed up customer integration and enable self-service support for your API. We're the API Platform team for every company!
 
-* **Client SDKs** are publically [available via the Speakeasy CLI](https://docs.speakeasyapi.dev/docs/speakeasy-cli/getting-started). We support Typescript, Python, and Go.
+* **Client SDKs** are publically [available via the Speakeasy CLI](https://docs.speakeasyapi.dev/docs/speakeasy-cli/getting-started). We support Typescript, Python, and Go. Support for Java, Rust, and more coming soon!
 * **Developer Experience Portals** are available to users who [join our beta program](https://www.speakeasyapi.dev/request-access). Request access and we'll be sure to get you onto the platform as soon as possible!
 
 ## What you'll find on our Github?
