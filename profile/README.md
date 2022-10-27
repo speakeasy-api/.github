@@ -14,7 +14,7 @@ Speakeasy's Client SDKs and Developer Experience POrtal help you acheve faster &
 
 | Speakeasy SDKs | Speakeasy CLI | Speakeasy Product Resources |
 | ------------- | ------------- | ------------- |
-| To get integrated with Speakeasy you need to drop our SDK into your API handler code. We support [Java](https://github.com/speakeasy-api/speakeasy-java-sdk),[Go](https://github.com/speakeasy-api/speakeasy-go-sdk),[Typescript](https://github.com/speakeasy-api/speakeasy-typescript-sdk), and [Rust](https://github.com/speakeasy-api/speakeasy-rust-sdk), | The Speakeasy CLI can be used to validate OpenAPI specs, and generate client SDKs. Head over to [the repo](https://github.com/speakeasy-api/speakeasy) to get started | If you have thoughts about the product or ideas for the direction of the Speakeasy platform, then please get in touch! [Simply raise an issue in our product resources repo](https://github.com/speakeasy-api/product-resources) and we'll get back to you ASAP.|
+| To get integrated with Speakeasy you need to drop our SDK into your API handler code. We support [Java](https://github.com/speakeasy-api/speakeasy-java-sdk), [Go](https://github.com/speakeasy-api/speakeasy-go-sdk), [Typescript](https://github.com/speakeasy-api/speakeasy-typescript-sdk), and [Rust](https://github.com/speakeasy-api/speakeasy-rust-sdk), | The Speakeasy CLI can be used to validate OpenAPI specs, and generate client SDKs. Head over to [the repo](https://github.com/speakeasy-api/speakeasy) to get started | If you have thoughts about the product or ideas for the direction of the Speakeasy platform, then please get in touch! [Simply raise an issue in our product resources repo](https://github.com/speakeasy-api/product-resources) and we'll get back to you ASAP.|
 
 ---
 
