@@ -12,9 +12,9 @@ Speakeasy's Client SDKs and Developer Experience POrtal help you acheve faster &
 
 ## What you'll find on our Github?
 
-| Speakeasy SDKs | Speakeasy CLI | Speakeasy Product Resources |
-| ------------- | ------------- | ------------- |
-| To get integrated with Speakeasy you need to drop our SDK into your API handler code. We support [Java](https://github.com/speakeasy-api/speakeasy-java-sdk), [Go](https://github.com/speakeasy-api/speakeasy-go-sdk), [Typescript](https://github.com/speakeasy-api/speakeasy-typescript-sdk), and [Rust](https://github.com/speakeasy-api/speakeasy-rust-sdk), | The Speakeasy CLI can be used to validate OpenAPI specs, and generate client SDKs. Head over to [the repo](https://github.com/speakeasy-api/speakeasy) to get started | If you have thoughts about the product or ideas for the direction of the Speakeasy platform, then please get in touch! [Simply raise an issue in our product resources repo](https://github.com/speakeasy-api/product-resources) and we'll get back to you ASAP.|
+| Speakeasy SDKs | Speakeasy CLI | 
+| ------------- | ------------- | 
+| To get integrated with the Speakeasy Platform you need to drop our SDK into your API as global middleware to power a developer experience portal. We support [Java](https://github.com/speakeasy-api/speakeasy-java-sdk), [Go](https://github.com/speakeasy-api/speakeasy-go-sdk), [Typescript](https://github.com/speakeasy-api/speakeasy-typescript-sdk), and [Rust](https://github.com/speakeasy-api/speakeasy-rust-sdk), | The Speakeasy CLI can be used to validate OpenAPI specs, and generate idiomatic client SDKs. Head over to [the repo](https://github.com/speakeasy-api/speakeasy) to get started | If you have thoughts about the product or ideas for the direction of the Speakeasy platform, then please get in touch! 
 
 ---
 
@@ -23,7 +23,8 @@ Speakeasy's Client SDKs and Developer Experience POrtal help you acheve faster &
 We want to make it super easy for all Speakeasy users to talk to us and connect with one another. We believe that sharing ideas and collective problem solving will help us build the possible future. Join the conversation:
 
 * **Twitter**. Follow [@speakeasydev](https://twitter.com/speakeasydev) for API & dev tools conversations and release announcements.
-* **GitHub**. If you spot a bug, please raise an issue in the GitHub repository of the component in question. For brainstorming a potential new feature or making a request, come chat with us on [Slack](https://join.slack.com/t/speakeasy-dev/shared_invite/zt-1df0lalk5-HCAlpcQiqPw8vGukQWhexw). 
+* **GitHub**. If you spot a bug, please raise an issue in the GitHub repository of the component in question. 
+* **Feature Requests**. For brainstorming a potential new feature or making a request, come chat with us on [Slack](https://join.slack.com/t/speakeasy-dev/shared_invite/zt-1df0lalk5-HCAlpcQiqPw8vGukQWhexw). 
 * **Email**. A real person wrote this. If you want to talk to me, email is the easiest way. Get in touch: nolan@speakeasyapi.dev.
 
 ---
