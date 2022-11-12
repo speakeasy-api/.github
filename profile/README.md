@@ -12,7 +12,7 @@ Speakeasy's Client SDKs and Developer Experience POrtal help you acheve faster &
 
 ## What you'll find on our Github?
 
-| Speakeasy SDKs | Speakeasy CLI | 
+| Speakeasy Serverside SDKs | Speakeasy CLI (Client SDK generator) | 
 | ------------- | ------------- | 
 | To get integrated with the Speakeasy Platform you need to drop our SDK into your API as global middleware to power a developer experience portal. We support [Java](https://github.com/speakeasy-api/speakeasy-java-sdk), [Go](https://github.com/speakeasy-api/speakeasy-go-sdk), [Typescript](https://github.com/speakeasy-api/speakeasy-typescript-sdk), and [Rust](https://github.com/speakeasy-api/speakeasy-rust-sdk), | The Speakeasy CLI can be used to validate OpenAPI specs, and generate idiomatic client SDKs. Head over to [the repo](https://github.com/speakeasy-api/speakeasy) to get started | If you have thoughts about the product or ideas for the direction of the Speakeasy platform, then please get in touch! 
 
