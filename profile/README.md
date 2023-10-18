@@ -1,7 +1,7 @@
 Want to learn more about Speakeasy check out our [docs](https://speakeasyapi.dev/docs/) !
 
 
-https://github.com/speakeasy-api/.github/assets/68016351/70073898-5684-48a6-a967-9317b2c510d7
+https://github.com/speakeasy-api/.github/assets/68016351/7654ad3c-808b-45d1-a8a7-7621723ca72a
 
 
 Follow us and join the community at 
