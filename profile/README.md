@@ -1,3 +1,5 @@
+![3rd party sponsor](https://github.com/user-attachments/assets/ca371e62-0aac-4205-957f-c709b507caa3)
+
 Want to learn more about Speakeasy check out our [docs](https://speakeasyapi.dev/docs/) !
 
 Follow us and join the community at 
