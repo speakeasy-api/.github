@@ -1,5 +1,7 @@
-![3rd party sponsor](https://github.com/user-attachments/assets/ca371e62-0aac-4205-957f-c709b507caa3)
 
+<img width="1000" height="526" alt="gh" src="https://github.com/user-attachments/assets/4a5fab65-2a28-417c-b9d3-4a635c890ffd" />
+<br />
+<br />
 Want to learn more about Speakeasy check out our [docs](https://speakeasyapi.dev/docs/) !
 
 Follow us and join the community at 
