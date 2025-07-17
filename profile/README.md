@@ -2,7 +2,8 @@
 <img width="1000" height="526" alt="gh" src="https://github.com/user-attachments/assets/4a5fab65-2a28-417c-b9d3-4a635c890ffd" />
 <br />
 <br />
-Want to learn more about Speakeasy check out our [docs](https://speakeasyapi.dev/docs/) !
+
+Want to learn more about Speakeasy? Check out our [docs](https://www.speakeasy.com/docs).
 
 Follow us and join the community at 
 
